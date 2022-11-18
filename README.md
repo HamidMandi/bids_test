@@ -5,6 +5,15 @@ It just because I wanna make the first commit
 a;ldksjflk;ajf
 ajdsf;ajlkfd;ad
 jal;kdsf;jakdl;sfjk
+adsf
+
+
+asdfa
+sdf
+asdf
+asdf
+adsf
+
 
 
 This repository serves as a template for EEG studies conducted in the [NeuroCognitive Imaging Lab](http://ncil.science), Department of Psychology & Neuroscience, [Dalhousie University](https://dal.ca), directed by Aaron J Newman](https://aaronjnewman.com).
